@@ -1,6 +1,6 @@
 # Cancer Cell Classification
 
-The following is a presentation two of Neural Network implementations for cell classification as cancerous or non-cancerous. We used Jax and PyTorch for our implementations.
+The following is a presentation of two Neural Network implementations for cell classification as cancerous or non-cancerous. We used Jax and PyTorch for our implementations.
 
 
 Folder structure:
